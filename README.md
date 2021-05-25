@@ -12,8 +12,6 @@ head tags
     <meta name="theme-color" content="#000000" />
     <meta name="author" content="" />
     <link rel="canonical" href="" />
-
-    <!-- OpenSearch description -->
     <link
       rel="search"
       href=""
